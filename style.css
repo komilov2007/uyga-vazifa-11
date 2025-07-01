@@ -3,17 +3,20 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 body {
     height: 100vh;
     width: 100%;
     padding: 20px;
 
 }
+
 main {
     display: flex;
     flex-wrap: wrap;
     gap: 15px;
 }
+
 :root {
     --kok-rang: #28A4AC;
     --pushti-rang: #AC2868;
@@ -26,21 +29,25 @@ header {
     background-color: #AC4828;
     margin-bottom: 15px;
 }
+
 .color1 {
     width: 540px;
     height: 180px;
     background-color: var(--kok-rang);
 }
+
 .color2 {
     width: 370px;
     height: 180px;
-    background-color:var(--kok-rang);
+    background-color: var(--kok-rang);
 }
+
 .color3 {
     width: 540px;
     height: 180px;
     background-color: var(--kok-rang);
 }
+
 .color4 {
     width: 540px;
     height: 180px;
@@ -58,11 +65,13 @@ header {
     height: 180px;
     background-color: var(--pushti-rang);
 }
+
 .color7 {
- width: 925px;
- height: 200px;
- background-color: var(--yashil-rang);
+    width: 925px;
+    height: 200px;
+    background-color: var(--yashil-rang);
 }
+
 .color8 {
     width: 540px;
     height: 200px;
